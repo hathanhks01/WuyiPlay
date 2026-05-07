@@ -1,0 +1,14 @@
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.csproj.AssemblyReference.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.AssemblyInfoInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.AssemblyInfo.cs
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay.DAL.deps.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay.DAL.runtimeconfig.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay.DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay.DAL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\refint\WuyiPlay.DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay.DAL.genruntimeconfig.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\ref\WuyiPlay.DAL.dll

@@ -1,0 +1,30 @@
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_BLL.deps.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_BLL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_BLL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.AssemblyInfoInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.AssemblyInfo.cs
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\refint\WuyiPlay_BLL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\ref\WuyiPlay_BLL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.csproj.AssemblyReference.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_DAL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay.538C121E.Up2Date
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.csproj.AssemblyReference.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.AssemblyInfoInputs.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.AssemblyInfo.cs
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.csproj.CoreCompileInputs.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\refint\WuyiPlay_BLL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay_BLL.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_BLL.deps.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_BLL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_BLL.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_DAL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\bin\Debug\net8.0\WuyiPlay_DAL.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\WuyiPlay.538C121E.Up2Date
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_BLL\obj\Debug\net8.0\ref\WuyiPlay_BLL.dll

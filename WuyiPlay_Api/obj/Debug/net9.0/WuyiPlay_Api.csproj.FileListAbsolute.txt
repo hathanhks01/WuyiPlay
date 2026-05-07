@@ -1,0 +1,182 @@
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\appsettings.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.staticwebassets.endpoints.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.exe
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.deps.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.runtimeconfig.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_BLL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_BLL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_DAL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.csproj.AssemblyReference.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.AssemblyInfoInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.AssemblyInfo.cs
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.csproj.CoreCompileInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\scopedcss\bundle\WuyiPlay_Api.styles.css
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay.D8160812.Up2Date
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\refint\WuyiPlay_Api.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.genruntimeconfig.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\ref\WuyiPlay_Api.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\refint\WuyiPlay_Api.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.csproj.AssemblyReference.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.AssemblyInfoInputs.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.AssemblyInfo.cs
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.csproj.CoreCompileInputs.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\appsettings.Development.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\appsettings.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.staticwebassets.endpoints.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.exe
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.deps.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.runtimeconfig.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_Api.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\AutoMapper.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Azure.Core.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Azure.Identity.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.ClientModel.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Memory.Data.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Text.Json.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_BLL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_DAL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_BLL.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\WuyiPlay_DAL.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\scopedcss\bundle\WuyiPlay_Api.styles.css
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.build.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.development.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay.D8160812.Up2Date
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\WuyiPlay_Api.genruntimeconfig.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\ref\WuyiPlay_Api.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay_Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

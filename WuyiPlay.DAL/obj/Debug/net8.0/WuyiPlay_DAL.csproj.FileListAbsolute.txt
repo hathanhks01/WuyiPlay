@@ -1,0 +1,28 @@
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.deps.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.runtimeconfig.json
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.csproj.AssemblyReference.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.AssemblyInfoInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.AssemblyInfo.cs
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\refint\WuyiPlay_DAL.dll
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.pdb
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.genruntimeconfig.cache
+C:\Users\Ha Thanh Thanh\OneDrive\Desktop\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\ref\WuyiPlay_DAL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.deps.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.runtimeconfig.json
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\bin\Debug\net8.0\WuyiPlay_DAL.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.csproj.AssemblyReference.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.AssemblyInfoInputs.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.AssemblyInfo.cs
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.csproj.CoreCompileInputs.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\refint\WuyiPlay_DAL.dll
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.pdb
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\WuyiPlay_DAL.genruntimeconfig.cache
+D:\WuyiPlayPrj\WuyiPlay\WuyiPlay.DAL\obj\Debug\net8.0\ref\WuyiPlay_DAL.dll
